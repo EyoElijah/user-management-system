@@ -9,3 +9,7 @@ basic CRUD operation using mysql and nodejs
 - Expressjs
 - Express-handlerbars
 - mysql
+
+# author
+
+Eyo Elijah
